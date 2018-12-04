@@ -1,3 +1,5 @@
+koinotice@gmail.com
+
 # godo
 本地开发神器
 - webide
@@ -13,5 +15,8 @@
 ## 第三方
 - mysql\mariadb
 - redis
+ 
 
 ## golang常用
+
+ 
