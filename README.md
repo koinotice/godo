@@ -1,3 +1,5 @@
+koinotice@gmail.com
+
 # godo
 本地开发神器
 - webide
