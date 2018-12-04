@@ -26,7 +26,24 @@ $ git push --force
 
 $ git rebase --abort
 
-作者：红薯爱帅
-链接：https://www.jianshu.com/p/a79cdc725954
-來源：简书
-简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。
+ 
+
+新建dev    
+ git checkout -b dev
+
+ git checkout -b is5
+
+ git checkout dev
+
+ 合并分支
+ git merge is5
+
+删除分支
+
+git branch -d is5
+
+删除远端分支
+
+git push origin is5 -d
+
+   
