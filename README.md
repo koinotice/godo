@@ -1,11 +1,13 @@
 koinotice@gmail.com
 git用来教学会赞
+你 不是你
 # godo
 本地开发神器
 - webide
 - 各种语言支持
 - docker
   
+我也不是我
 ## golang 开发
 ## 功能列表
 - 本地记事本，支持MD
